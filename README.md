@@ -86,5 +86,5 @@ Each microservice provides **CRUD RESTful APIs** and is documented with **OpenAP
 ## 🛡️ License
 This project is **MIT Licensed**. Feel free to use and modify!
 
-🔗 **GitHub Repository**: [https://github.com/your-username/bank-microservices](https://github.com/Kunal1405/Bank-Microservices)
+🔗 **GitHub Repository**: [https://github.com/Kunal1405/Bank-Microservices](https://github.com/Kunal1405/Bank-Microservices)
 
